@@ -72,6 +72,8 @@ function main() {
   list.insertLast(3);
   list.insertLast(1);
   list.insertLast(2);
+  list.insertLast(10);
+  list.insertLast(2);
   list.insertLast(5);
   list.insertLast(0)
   sort(list);
